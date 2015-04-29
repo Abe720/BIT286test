@@ -4,6 +4,11 @@ lsdknfldskngs
 ;sdlnflsdnsjd
 lsdnvlsdfm
 
+<<<<<<< HEAD
 hiromi was here
 
 hiromi was here again!!!!
+=======
+hiromi NOT here
+Ryan wins!!
+>>>>>>> origin/master
